@@ -12,7 +12,7 @@
 - JS
 
 ## Live Demo
-[Live Demo](https://mmatongo.github.io/leaderboard/dist/)
+[Live Demo](https://munsa1.github.io/leaderboard/dist/)
 
 ## Getting Started
 
