@@ -17,7 +17,7 @@
 ## Getting Started
 
 To get started locally follow these simple example steps.
-- Fork and clone the repo to your computer using `git clone git@github.com:mmatongo/leaderboard.git` in the terminal or command prompt (this assumes that you have set up git to use your ssh key, if you haven't see [here](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)).
+- Fork and clone the repo to your computer using `git clone git@github.com:munsa1/leaderboard.git` in the terminal or command prompt (this assumes that you have set up git to use your ssh key, if you haven't see [here](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)).
 - Install [Node](https://nodejs.org/en/download/).
 - Run the command `npm install` inside the repo in a terminal to install all the required dependancies.
 - Create a new feature branch using `git checkout -b feature-name`.
