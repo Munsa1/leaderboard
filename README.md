@@ -27,10 +27,10 @@ To get started locally follow these simple example steps.
 
 ## Authors
 
-👤 **Daniel M. Matongo**
+👤 **Munsa Mibenge**
 
-- GitHub: [Daniel M. Matongo](https://github.com/mmatongo)
-- LinkedIn: [Daniel M. Matongo](https://linkedin.com/in/mmatongo)
+- GitHub: [@munsa1](https://github.com/munsa1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/munsa-mibenge-a35736205/)
 
 ## 🤝 Contributing
 
